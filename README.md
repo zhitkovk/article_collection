@@ -81,7 +81,7 @@ http://xcelab.net/rm/statistical-rethinking/ — McElreath’s Statistical Rethi
 
 http://www.stat.columbia.edu/~madigan/W2025/notes/survival.pdf — хорошее введение в survival с примерами из R. 
 
-http://andrewgelman.com/2011/09/10/the-statistical-significance-filter/ — Andrew Gelman про постоянное завышение оценок эффектов для значимых результатов, пока что не до конца понял почему именно это происходит. http://dcscience.net/ioannidis-associations-2008.pdf — более подробная статья про это же.
+http://andrewgelman.com/2011/09/10/the-statistical-significance-filter/ — Andrew Gelman про постоянное завышение оценок эффектов для значимых результатов. http://dcscience.net/ioannidis-associations-2008.pdf — более подробная статья про это же.
 
 http://www.nibcode.com/en/blog/6/10-recommended-books-on-linear-algebra — подборка книжек по линалу. Обратить внимание на стрэнга
 
@@ -97,7 +97,7 @@ https://www.le.ac.uk/users/dsgp1/COURSES/THIRDMET/MYLECTURES/1REGRESS.pdf — Di
 
 http://stats.stackexchange.com/questions/165/how-would-you-explain-markov-chain-monte-carlo-mcmc-to-a-layperson — basic question from stack. Easy explanations with math.
 
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.7133&rep=rep1&type=pdf — Introduction to MCMC from machine learning perspective. Screenshot:
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.7133&rep=rep1&type=pdf — Introduction to MCMC from machine learning perspective.
 
 
 ## Misc
