@@ -39,6 +39,8 @@ http://junkcharts.typepad.com/junk_charts/ — МНОГО хороших ист�
 
 http://www.jstor.org/stable/27643902?seq=1#page_scan_tab_contents — examples of counterintuitive in pictures datasets. Like Anscombe’s quartet. Not so understandable article because of genetic algorithms.
 
+https://signalvnoise.com/posts/2106-you-can-always-do-less -- Ruby founder about developing projects without infinite list of features. TLDR: Set yourself a constraint and do only things that are essential.
+
 
 ## R and JS
 
