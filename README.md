@@ -37,9 +37,11 @@ http://www.colorcombos.com/ — подборка палитр цветов
 
 http://junkcharts.typepad.com/junk_charts/ — МНОГО хороших историй про то как, сделать плохие графики хорошими.
 
-http://www.jstor.org/stable/27643902?seq=1#page_scan_tab_contents — examples of counterintuitive in pictures datasets. Like Anscombe’s quartet. Not so understandable article because of genetic algorithms.
+http://www.jstor.org/stable/27643902?seq=1#page_scan_tab_contents — examples of counterintuitive in pictures datasets. Like Anscombe’s quartet. Not so understandable article because of genetic algorithms
 
-https://signalvnoise.com/posts/2106-you-can-always-do-less -- Ruby founder about developing projects without infinite list of features. TLDR: Set yourself a constraint and do only things that are essential.
+https://signalvnoise.com/posts/2106-you-can-always-do-less -- Ruby founder about developing projects without infinite list of features. TLDR: Set yourself a constraint and do only things that are essential
+
+https://www.r-bloggers.com/the-ramones-punk-is-data-too/ -- Analysis of Ramones career and basic text mining
 
 
 ## R and JS
