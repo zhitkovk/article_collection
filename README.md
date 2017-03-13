@@ -59,6 +59,8 @@ https://www.interviewcake.com/concept/python/memoization — memoization. Suppos
 
 https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter — map, reduce, filter for arrays in JS with examples.
 
+https://www.r-bloggers.com/scheduling-r-scripts-and-processes-on-windows-and-unixlinux/ - Easy scheduling in R
+
 
 ## Experiment design
 
