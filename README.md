@@ -63,6 +63,8 @@ https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter — map, reduc
 
 https://www.r-bloggers.com/scheduling-r-scripts-and-processes-on-windows-and-unixlinux/ - Easy scheduling in R
 
+https://www.is.uni-freiburg.de/ressourcen/algorithm-design-and-software-engineering-oeffentlicher-zugriff/11_softwaretesting.pdf -- Writing tests in R
+
 
 ## Experiment design
 
