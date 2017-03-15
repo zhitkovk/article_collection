@@ -43,6 +43,8 @@ https://signalvnoise.com/posts/2106-you-can-always-do-less -- Ruby founder about
 
 https://www.r-bloggers.com/the-ramones-punk-is-data-too/ -- Analysis of Ramones career and basic text mining
 
+http://algorithms-tour.stitchfix.com/ -- one of the __coolest storytelling__ examples I've ever seen. Story about data mining at the clothing company.
+
 
 ## R and JS
 
