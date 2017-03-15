@@ -45,6 +45,7 @@ https://www.r-bloggers.com/the-ramones-punk-is-data-too/ -- Analysis of Ramones 
 
 http://algorithms-tour.stitchfix.com/ -- one of the __coolest storytelling__ examples I've ever seen. Story about data mining at the clothing company.
 
+http://artgorbunov.ru/bb/soviet/20170104/ -- Делая дизайн сайта, сначала нужно думать о целях этого сайта («зачем огромный раздел новостей стоматологической клинике?»). Какие он задачи решает?
 
 ## R and JS
 
