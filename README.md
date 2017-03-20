@@ -66,6 +66,13 @@ https://www.r-bloggers.com/scheduling-r-scripts-and-processes-on-windows-and-uni
 
 https://www.is.uni-freiburg.de/ressourcen/algorithm-design-and-software-engineering-oeffentlicher-zugriff/11_softwaretesting.pdf -- Writing tests in R
 
+http://cooldatasets.com/#Entertainment-Datasets -- коллекция наборов данных
+
+#### Colour analysis in R
+
+https://www.r-bloggers.com/color-quantization-in-r/ -- выделение каналов цвета, PCA и kmeans для похожих точек.
+
+http://blog.martinbellander.com/post/115411125748/the-colors-of-paintings-blue-is-the-new-orange -- большой анализ картин художников на по цветам
 
 ## Experiment design
 
