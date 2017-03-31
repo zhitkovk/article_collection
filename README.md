@@ -47,6 +47,9 @@ http://algorithms-tour.stitchfix.com/ -- one of the __coolest storytelling__ exa
 
 http://artgorbunov.ru/bb/soviet/20170104/ -- Делая дизайн сайта, сначала нужно думать о целях этого сайта («зачем огромный раздел новостей стоматологической клинике?»). Какие он задачи решает?
 
+https://m.signalvnoise.com/the-unnecessary-fragmentation-of-design-jobs-d5b9c8621082 -- Аргументы в пользу того, что дизайнер это человек, который умеет создавать разные вещи. Дробление работы дизайнера на мелкие обязанности создаёт хаос: компании не нужны отдельные UI дизайнеры, отдельные фронтэндеры и т.д. Пример Raymond Loewy, человек который делал дизайн машин, логотипов (shell, exxon).
+
+
 ## R and JS
 
 
@@ -73,6 +76,7 @@ http://cooldatasets.com/#Entertainment-Datasets -- коллекция набор
 https://www.r-bloggers.com/color-quantization-in-r/ -- выделение каналов цвета, PCA и kmeans для похожих точек.
 
 http://blog.martinbellander.com/post/115411125748/the-colors-of-paintings-blue-is-the-new-orange -- большой анализ картин художников на по цветам
+
 
 ## Experiment design
 
