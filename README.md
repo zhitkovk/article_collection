@@ -71,6 +71,8 @@ https://www.is.uni-freiburg.de/ressourcen/algorithm-design-and-software-engineer
 
 http://cooldatasets.com/#Entertainment-Datasets -- коллекция наборов данных
 
+http://stackoverflow.com/questions/30470293/how-to-underline-text-in-a-plot-title-or-label-ggplot2 -- how to add underlined text to ggplot title. Also contains a link to elegant hack for underlining facet titles with annotation.
+
 #### Colour analysis in R
 
 https://www.r-bloggers.com/color-quantization-in-r/ -- выделение каналов цвета, PCA и kmeans для похожих точек.
