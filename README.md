@@ -49,6 +49,14 @@ http://artgorbunov.ru/bb/soviet/20170104/ -- Делая дизайн сайта,
 
 https://m.signalvnoise.com/the-unnecessary-fragmentation-of-design-jobs-d5b9c8621082 -- Аргументы в пользу того, что дизайнер это человек, который умеет создавать разные вещи. Дробление работы дизайнера на мелкие обязанности создаёт хаос: компании не нужны отдельные UI дизайнеры, отдельные фронтэндеры и т.д. Пример Raymond Loewy, человек который делал дизайн машин, логотипов (shell, exxon).
 
+#### Design
+
+https://gomockingbird.com/mockingbird/# -- vector prototyping in web. Haven't tried yet, seems intuitive and rather simple. Good thing for going away from Shiny's pre-defined layouts.
+
+https://www.invisionapp.com/ -- another solution for prototyping (not vector). FREE.
+
+http://www.designkit.org/methods/ --introduction to design thinking with examples. In short how I understand it: define your design around user needs. Make deep research to understand problems, then prototype, test and then deliver the solution. Don't start design before knowing the problem. Designer is problem solver
+
 
 ## R and JS
 
