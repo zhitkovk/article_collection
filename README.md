@@ -25,8 +25,6 @@ http://hci.stanford.edu/courses/cs448b/f11/lectures/CS448B-20111117-Text.pdf —
 
 http://projects.propublica.org/graphics/workers-comp-reform-by-state?state=New_York — инфографика про компенсации и вычеты для заработных плат по Штатам. В целом на этом сайте есть много хороших визуализаций.
 
-http://lenagroeger.com/design/ — книжки о дизайне
-
 http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/ — Когда не стоит пользоваться картами. Основная идея: нужно пользоваться картами, если различия между двумя местами действительно обусловлены географией, а не другими факторами, характеризующими две географические точки. Допустим штаты, на которых концентрируется один из кандидатов: он заинтересован в продвижении в них __не__ потому, что они расположены в определенном месте, а потому, что люди, которые там живут скорее всего проголосуют за него из-за своих демографических характеристик. Поэтому лучше отображать это изменение не на карте. Второй случай, когда карта может быть __не__ очень хороша: показать изменение по сравнению с прошлым годом.
 
 http://www.informationisbeautifulawards.com/news/188-2016-the-winners — номинация по визуализации данных и инфографике
@@ -39,23 +37,25 @@ http://junkcharts.typepad.com/junk_charts/ — МНОГО хороших ист�
 
 http://www.jstor.org/stable/27643902?seq=1#page_scan_tab_contents — examples of counterintuitive in pictures datasets. Like Anscombe’s quartet. Not so understandable article because of genetic algorithms
 
-https://signalvnoise.com/posts/2106-you-can-always-do-less -- Ruby founder about developing projects without infinite list of features. TLDR: Set yourself a constraint and do only things that are essential
-
 https://www.r-bloggers.com/the-ramones-punk-is-data-too/ -- Analysis of Ramones career and basic text mining
 
 http://algorithms-tour.stitchfix.com/ -- one of the __coolest storytelling__ examples I've ever seen. Story about data mining at the clothing company.
 
-http://artgorbunov.ru/bb/soviet/20170104/ -- Делая дизайн сайта, сначала нужно думать о целях этого сайта («зачем огромный раздел новостей стоматологической клинике?»). Какие он задачи решает?
-
-https://m.signalvnoise.com/the-unnecessary-fragmentation-of-design-jobs-d5b9c8621082 -- Аргументы в пользу того, что дизайнер это человек, который умеет создавать разные вещи. Дробление работы дизайнера на мелкие обязанности создаёт хаос: компании не нужны отдельные UI дизайнеры, отдельные фронтэндеры и т.д. Пример Raymond Loewy, человек который делал дизайн машин, логотипов (shell, exxon).
-
-#### Design
+#### Design (general ideas)
 
 https://gomockingbird.com/mockingbird/# -- vector prototyping in web. Haven't tried yet, seems intuitive and rather simple. Good thing for going away from Shiny's pre-defined layouts.
 
 https://www.invisionapp.com/ -- another solution for prototyping (not vector). FREE.
 
 http://www.designkit.org/methods/ --introduction to design thinking with examples. In short how I understand it: define your design around user needs. Make deep research to understand problems, then prototype, test and then deliver the solution. Don't start design before knowing the problem. Designer is problem solver
+
+http://artgorbunov.ru/bb/soviet/20170104/ -- Делая дизайн сайта, сначала нужно думать о целях этого сайта («зачем огромный раздел новостей стоматологической клинике?»). Какие он задачи решает? Again idea of design = problem solving.
+
+https://m.signalvnoise.com/the-unnecessary-fragmentation-of-design-jobs-d5b9c8621082 -- Аргументы в пользу того, что дизайнер это человек, который умеет создавать разные вещи. Дробление работы дизайнера на мелкие обязанности создаёт хаос: компании не нужны отдельные UI дизайнеры, отдельные фронтэндеры и т.д. Пример Raymond Loewy, человек который делал дизайн машин, логотипов (shell, exxon).
+
+https://signalvnoise.com/posts/2106-you-can-always-do-less -- Ruby founder about developing projects without infinite list of features. TLDR: Set yourself a constraint and do only things that are essential
+
+http://lenagroeger.com/design/ — книжки о дизайне
 
 
 ## R and JS
@@ -90,6 +90,7 @@ http://blog.martinbellander.com/post/115411125748/the-colors-of-paintings-blue-i
 
 ## Experiment design
 
+http://www.stat.yale.edu/Courses/1997-98/101/expdes.htm -- easy introduction to basic concepts of experimental design.
 
 http://www.tandfonline.com/doi/abs/10.1080/00220485.2014.889538#aHR0cDovL3d3dy50YW5kZm9ubGluZS5jb20vZG9pL3BkZi8xMC4xMDgwLzAwMjIwNDg1LjIwMTQuODg5NTM4P25lZWRBY2Nlc3M9dHJ1ZUBAQDA= — статья про полевые эксперименты в экономике.
 
@@ -107,7 +108,7 @@ http://kaharris.org/teaching/425/index.html — mid level probability
 
 http://www.evanmiller.org/how-not-to-run-an-ab-test.html — про то как корректно делать A/B тесты. Нельзя останавливать тест как только результат стал значимым. Правильно контролировать размер выборки заранее. Снизу ссылки на то как выбрать размер выборки. How to run A/B tests correctly
 
-http://xcelab.net/rm/statistical-rethinking/ — McElreath’s Statistical Rethinking: A Bayesian Course with Examples in R and Stan — хорошая книга про байесовскую эконометрику в R.
+http://xcelab.net/rm/statistical-rethinking/ — McElreath’s Statistical Rethinking: A Bayesian Course with Examples in R and Stan — хорошая книга про байесовскую эконометрику в R. Начинается с супер простых примеров. Интересна первая глава с обсуждением того как сегодня работает статистическая наука (нормально ли применять дерево решений для решения о том какой статистический тест выбрать)
 
 http://www.stat.columbia.edu/~madigan/W2025/notes/survival.pdf — хорошее введение в survival с примерами из R. 
 
