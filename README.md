@@ -33,6 +33,8 @@ https://public.tableau.com/en-us/s/gallery/surviving-titanic — лучшая в
 
 http://www.colorcombos.com/ — подборка палитр цветов
 
+http://www.color-blindness.com/coblis-color-blindness-simulator/ -- color blindens simulator. From colorbrewer2.org «Red-green color blindness affects approximately 8 percent of men and 0.4 percent of women, although its severity varies»
+
 http://junkcharts.typepad.com/junk_charts/ — МНОГО хороших историй про то как, сделать плохие графики хорошими.
 
 http://www.jstor.org/stable/27643902?seq=1#page_scan_tab_contents — examples of counterintuitive in pictures datasets. Like Anscombe’s quartet. Not so understandable article because of genetic algorithms
