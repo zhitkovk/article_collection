@@ -73,7 +73,7 @@ http://www.color-blindness.com/coblis-color-blindness-simulator/ -- color blindn
 
 http://colorbrewer2.org -- probably most popular source for map (and charts) color palettes
 
-https://medium.freecodecamp.com/designing-in-color-abd358660a7b -- cool guide on role of colors in design
+https://medium.freecodecamp.com/designing-in-color-abd358660a7b -- cool guide on role of colors in design. «People perceive colors differently. As Fairchild put it, color is a psychological phenomenon that arises within the observer. Colors have different effects on people based on their personal preference, cultural upbringing, and experiences. As such, in order to understand how people will react to your design, you need to identify your audience»
 
 https://github.com/daattali/colourpicker#to-select-colours-to-use-in-your-r-code-colourpicker -- package for intercatively choosing colors in R ggplot2
 
