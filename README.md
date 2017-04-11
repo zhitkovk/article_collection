@@ -45,6 +45,8 @@ http://algorithms-tour.stitchfix.com/ -- one of the __coolest storytelling__ exa
 
 #### Design (general ideas)
 
+https://medium.freecodecamp.com/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda -- comprehensive review of basic visual design skills and required knowledge
+
 https://gomockingbird.com/mockingbird/# -- vector prototyping in web. Haven't tried yet, seems intuitive and rather simple. Good thing for going away from Shiny's pre-defined layouts.
 
 https://www.invisionapp.com/ -- another solution for prototyping (not vector). FREE.
@@ -58,6 +60,14 @@ https://m.signalvnoise.com/the-unnecessary-fragmentation-of-design-jobs-d5b9c862
 https://signalvnoise.com/posts/2106-you-can-always-do-less -- Ruby founder about developing projects without infinite list of features. TLDR: Set yourself a constraint and do only things that are essential
 
 http://lenagroeger.com/design/ — книжки о дизайне
+
+#### Typography
+
+http://fontpair.co/ -- Pairing google fonts
+
+https://webtypography.net/toc/ -- web typography book
+
+https://designschool.canva.com/blog/typography-terms/ -- glossary of typographic terms. Get to know ascenders, serifs, stems and strokes
 
 
 ## R and JS
