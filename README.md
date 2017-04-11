@@ -71,7 +71,9 @@ http://www.colorcombos.com/ — подборка палитр цветов // co
 
 http://www.color-blindness.com/coblis-color-blindness-simulator/ -- color blindness simulator. Quote from colorbrewer2.org: «Red-green color blindness affects approximately 8 percent of men and 0.4 percent of women, although its severity varies»
 
-http://colorbrewer2.org -- probably most popular source for map (and charts) color palettes.
+http://colorbrewer2.org -- probably most popular source for map (and charts) color palettes
+
+https://medium.freecodecamp.com/designing-in-color-abd358660a7b -- cool guide on role of colors in design
 
 https://github.com/daattali/colourpicker#to-select-colours-to-use-in-your-r-code-colourpicker -- package for intercatively choosing colors in R ggplot2
 
