@@ -31,10 +31,6 @@ http://www.informationisbeautifulawards.com/news/188-2016-the-winners — ном
 
 https://public.tableau.com/en-us/s/gallery/surviving-titanic — лучшая визуализация титаника
 
-http://www.colorcombos.com/ — подборка палитр цветов
-
-http://www.color-blindness.com/coblis-color-blindness-simulator/ -- color blindens simulator. From colorbrewer2.org «Red-green color blindness affects approximately 8 percent of men and 0.4 percent of women, although its severity varies»
-
 http://junkcharts.typepad.com/junk_charts/ — МНОГО хороших историй про то как, сделать плохие графики хорошими.
 
 http://www.jstor.org/stable/27643902?seq=1#page_scan_tab_contents — examples of counterintuitive in pictures datasets. Like Anscombe’s quartet. Not so understandable article because of genetic algorithms
@@ -68,6 +64,16 @@ http://fontpair.co/ -- Pairing google fonts
 https://webtypography.net/toc/ -- web typography book
 
 https://designschool.canva.com/blog/typography-terms/ -- glossary of typographic terms. Get to know ascenders, serifs, stems and strokes
+
+#### Color selection
+
+http://www.colorcombos.com/ — подборка палитр цветов // color palettes
+
+http://www.color-blindness.com/coblis-color-blindness-simulator/ -- color blindness simulator. Quote from colorbrewer2.org: «Red-green color blindness affects approximately 8 percent of men and 0.4 percent of women, although its severity varies»
+
+http://colorbrewer2.org -- probably most popular source for map (and charts) color palettes.
+
+https://github.com/daattali/colourpicker#to-select-colours-to-use-in-your-r-code-colourpicker -- package for intercatively choosing colors in R ggplot2
 
 
 ## R and JS
