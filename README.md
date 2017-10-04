@@ -108,10 +108,11 @@ https://habrahabr.ru/post/328230/ -- джаваскрипт библиотеки
 #### Parallel computing in R
 
 http://www.glennklockwood.com/data-intensive/r/lapply-parallelism.html -- lapply based parallelism. Package parallel. Mind that you need to export variables and functions that are used inside the parLapply. See a more detailed example in the link below:
-
 https://stackoverflow.com/questions/12019638/using-parallels-parlapply-unable-to-access-variables-within-parallel-code
 
 http://www.glennklockwood.com/data-intensive/r/foreach-parallelism.html -- foreach based parallelism. Mind %do% and %dopar% differences. Also do not forget to export variables, functions and libraries inside foreach loop.
+
+https://stackoverflow.com/questions/17196261/understanding-the-differences-between-mclapply-and-parlapply-in-r -- differences between mclapply and parLapply clearly explained. 
 
 #### Colour analysis in R
 
