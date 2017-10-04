@@ -105,6 +105,14 @@ https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/ -- DOM 
 
 https://habrahabr.ru/post/328230/ -- джаваскрипт библиотеки для адаптивных таблиц.
 
+#### Parallel computing in R
+
+http://www.glennklockwood.com/data-intensive/r/lapply-parallelism.html -- lapply based parallelism. Package parallel. Mind that you need to export variables and functions that are used inside the parLapply. See a more detailed example in the link below:
+
+https://stackoverflow.com/questions/12019638/using-parallels-parlapply-unable-to-access-variables-within-parallel-code
+
+http://www.glennklockwood.com/data-intensive/r/foreach-parallelism.html -- foreach based parallelism. Mind %do% and %dopar% differences. Also do not forget to export variables, functions and libraries inside foreach loop.
+
 #### Colour analysis in R
 
 https://www.r-bloggers.com/color-quantization-in-r/ -- выделение каналов цвета, PCA и kmeans для похожих точек.
