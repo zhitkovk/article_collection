@@ -80,6 +80,7 @@ https://github.com/daattali/colourpicker#to-select-colours-to-use-in-your-r-code
 
 ## R and JS
 
+http://lenkiefer.com/2017/09/23/crafting-a-powerpoint-presentation-with-r/ -- Inserting R plots directly to your powerpoint presentation.
 
 http://stackoverflow.com/questions/11076567/plot-a-legend-and-well-spaced-universal-y-axis-and-main-titles-in-grid-arrange — extract legend from plot and use it in arranged ggplots
 
